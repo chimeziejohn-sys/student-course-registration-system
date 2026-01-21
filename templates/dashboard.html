@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<h2>Welcome to Student Dashboard</h2>
+
+<h3>Available Courses</h3>
+<ul>
+    {% for course in courses %}
+        <li>{{ course[1] }} ({{ course[2] }})</li>
+    {% endfor %}
+</ul>
+
+<a href="/logout">Logout</a>
+</body>
+</html>
