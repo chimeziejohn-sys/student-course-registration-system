@@ -53,11 +53,14 @@ The project followed these SDLC stages:
 **Name:** John-Nwoye Chimezie  
 **Matric Number:** 24/13950  
 **Level:** 200 
-##Course:##SEN 201
+---
+
+## COURSE: SEN 201
 
 ---
 
 ## Conclusion
 The Student Course Registration System successfully demonstrates the practical implementation of the Software Development Life Cycle (SDLC) and serves as an effective solution for managing student course registration.
+
 
 
