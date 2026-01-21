@@ -1,5 +1,17 @@
 # Student Course Registration System (SCRS)
 
+
+## Author Information
+**Name:** John-Nwoye Chimezie  
+**Matric Number:** 24/13950  
+**Level:** 200 
+---
+
+## COURSE: SEN 201
+---
+
+
+
 ## Project Description
 The Student Course Registration System (SCRS) is a simple web-based application developed to automate the process of student course registration.  
 The system allows students to register, log in, and view available courses online, thereby reducing errors and improving efficiency compared to manual registration.
@@ -65,18 +77,11 @@ The project followed these SDLC stages:
 
 ---
 
-## Author Information
-**Name:** John-Nwoye Chimezie  
-**Matric Number:** 24/13950  
-**Level:** 200 
----
-
-## COURSE: SEN 201
-
 ---
 
 ## Conclusion
 The Student Course Registration System successfully demonstrates the practical implementation of the Software Development Life Cycle (SDLC) and serves as an effective solution for managing student course registration.
+
 
 
 
