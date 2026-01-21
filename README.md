@@ -34,6 +34,22 @@ This project was developed following all the stages of the **Software Developmen
 ---
 
 ## Project Structure
+student-course-registration-system/
+│
+├── app.py                # Main Flask application file
+├── database.py           # Script to create and initialize the database
+├── database.db           # SQLite database file (stores student and course data)
+├── requirements.txt      # List of Python dependencies (Flask, etc.)
+├── README.md             # Project documentation
+│
+├── templates/            # Folder containing HTML templates
+│   ├── register.html     # Student registration page
+│   ├── login.html        # Student login page
+│   └── dashboard.html    # Dashboard page after login
+│
+└── static/               # Folder containing static files like CSS, images, and JS
+    └── style.css         # CSS stylesheet for styling HTML pages
+
 
 ---
 
@@ -61,6 +77,7 @@ The project followed these SDLC stages:
 
 ## Conclusion
 The Student Course Registration System successfully demonstrates the practical implementation of the Software Development Life Cycle (SDLC) and serves as an effective solution for managing student course registration.
+
 
 
 
