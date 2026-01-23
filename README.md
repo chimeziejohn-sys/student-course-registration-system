@@ -6,7 +6,7 @@
 **Matric Number:** 24/13950  
 **Level:** 200 
 ---
-
+## Department: Computer Science 
 ## COURSE: SEN 201
 ---
 
@@ -81,6 +81,7 @@ The project followed these SDLC stages:
 
 ## Conclusion
 The Student Course Registration System successfully demonstrates the practical implementation of the Software Development Life Cycle (SDLC) and serves as an effective solution for managing student course registration.
+
 
 
 
